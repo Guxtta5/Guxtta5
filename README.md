@@ -47,7 +47,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/Guxtta5/Guxtta5/assets/157237344/c2b68e0f-a23c-4d85-a5b7-249faf69d796">
 
-<img align="left"  height="80" width="80" src="https://github.com/Guxtta5/Guxtta5/assets/157237344/0349108f-6967-456b-979f-fe6b0cb8ca44">
+
 
 <img align="left"  height="80" width="80" src="https://github.com/Guxtta5/Guxtta5/assets/157237344/727a80fb-d301-4797-a154-74d8f4d13eb8">
 
@@ -73,9 +73,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/Guxtta5/Guxtta5/assets/157237344/81327653-8b22-4821-96d8-19ceae075bd1">
 
-<img align="left"  height="80" width="80" src="https://github.com/Guxtta5/Guxtta5/assets/157237344/b6d4da9b-a308-459c-8c17-3abc352326fd">
 
-<img align="left"  height="80" width="80" src="https://github.com/Guxtta5/Guxtta5/assets/157237344/0349108f-6967-456b-979f-fe6b0cb8ca44">
+
+
 
 </div>
 
